@@ -1,13 +1,11 @@
 label,type,name,args,kwargs,encrypted,expected,points
 Ejercicio 1,var,datos,,,True,b7d872f1103c21c23b4d24bdc9913778,1
-Ejercicio 2.a,var,lr,,,True,bdb61a0c3d7e7875b78f2c22195c72f9,1
-Ejercicio 2.b,func,lr,int:2;int:3,,True,37693cfc748049e45d87b8c7d8b9aacd,1
-Ejercicio 2.c,func,lr,float:2.0;int:3,,True,6bc071ec71e51c704acd13cdc898fd93,1
-Ejercicio 2.d,func,lr,int:2;int:3,beta0=int:100;alpha=int:2,True,eae27d77ca20db309e056e3d2dcd7d69,1
-Ejercicio 2.e,func,lr,int:2;int:3,beta1=int:100,True,320722549d1751cf3f247855f937b982,1
+Ejercicio 2.a,func,lr,int:2;int:3,,True,37693cfc748049e45d87b8c7d8b9aacd,1
+Ejercicio 2.b,func,lr,float:2.0;int:3,,True,6bc071ec71e51c704acd13cdc898fd93,1
+Ejercicio 2.c,func,lr,int:2;int:3,beta0=int:100;alpha=int:2,True,eae27d77ca20db309e056e3d2dcd7d69,1
+Ejercicio 2.d,func,lr,int:2;int:3,beta1=int:100,True,320722549d1751cf3f247855f937b982,1
 Ejercicio 3,var,resultado,,,True,cb7e459e3b9661861354a4dc6e1c63fc,1
-Ejercicio 4.a,var,lr2,,,True,8b31fb203f711e86955a28a9a0f9c265,1
-Ejercicio 4.b,func,lr2,int:2;int:3,,True,37693cfc748049e45d87b8c7d8b9aacd,1
-Ejercicio 4.c,func,lr2,float:2.0;int:3,,True,6bc071ec71e51c704acd13cdc898fd93,1
-Ejercicio 4.d,func,lr2,int:2;int:3,beta0=int:100;alpha=int:2,True,eae27d77ca20db309e056e3d2dcd7d69,1
-Ejercicio 4.e,func,lr2,int:2;int:3,beta1=int:100,True,320722549d1751cf3f247855f937b982,1
+Ejercicio 4.a,func,lr2,int:2;int:3,,True,37693cfc748049e45d87b8c7d8b9aacd,1
+Ejercicio 4.b,func,lr2,float:2.0;int:3,,True,6bc071ec71e51c704acd13cdc898fd93,1
+Ejercicio 4.c,func,lr2,int:2;int:3,beta0=int:100;alpha=int:2,True,eae27d77ca20db309e056e3d2dcd7d69,1
+Ejercicio 4.d,func,lr2,int:2;int:3,beta1=int:100,True,320722549d1751cf3f247855f937b982,1
