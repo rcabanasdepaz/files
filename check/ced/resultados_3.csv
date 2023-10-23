@@ -1,0 +1,9 @@
+label,type,name,args,kwargs,encrypted,expected,points
+Ejercicio1a,var,X,,,True,20382c5c590088a7b6619e1418880f83,1
+Ejercicio1b,var,resultado,,,True,e8f1cdc3c69e755d5145f2313d13b669,1
+Ejercicio1c,var,resultado2,,,True,a8255eb4b26622cd0775be446cdc5094,1
+Ejercicio2a,var,datos,,,True,820b20ec091f246894a58d9b4634906d,1
+Ejercicio2b,var,datos_completos,,,True,67165baf8cef62d0399a7f271f9be3c2,1
+Ejercicio2c,var,morosos,,,True,4a709c676b01a17ad3dba8f2df8d6882,1
+Ejercicio2d,var,medias,,,True,17b05f3ed1dd605af31cc0293c6a10cc,1
+Ejercicio2e,var,dominios,,,True,b781a4d73bf48b8d283a3b9649406ae2,1
